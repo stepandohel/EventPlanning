@@ -1,0 +1,39 @@
+﻿.eventlabel{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.newcreatediv{
+    display: flex;
+    flex-direction: column;
+}
+
+.eventfield{
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.eventbuttons{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.createfieldbutton{
+    color: black;
+    background: yellow;
+}
+.logingbtns{
+    display: flex;
+    justify-content: space-between;
+}
+.logingbtn{
+    width: 25%;
+}
+.registergbtns{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
